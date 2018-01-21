@@ -1,6 +1,6 @@
 ## Purpose of this repo
 
-Over the last couple of weeks (early Januaray '18) I've introduced myself to the wonderful and slightly terrifying world of config files and customization. This is my second real semester as a computer science major, and I'm starting to take sides in the Holy Wars. I've always had problems with perfectionism, and I was somewhat horrified to realize how big a time-sink this area has the potential to be.
+Over the last couple of weeks (early January '18) I've introduced myself to the wonderful and slightly terrifying world of config files and customization. This is my second real semester as a computer science major, and I'm starting to take sides in the Holy Wars. I've always had problems with perfectionism, and I was somewhat horrified to realize how big a time-sink this area has the potential to be.
 
 My general procedure for optimizing things in life is surfing on the absolute edge of marginal cost and marginal benefit: doing the minimum amount of work to achieve the payoff that matches my use case and individual time-distributions. A good shorthand way of describing the system is "research, implement, forget about it."
 
